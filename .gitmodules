@@ -1,0 +1,3 @@
+[submodule "external/repo"]
+	path = external/repo
+	url = git@github.com:lar1ksharik/lab2.git
